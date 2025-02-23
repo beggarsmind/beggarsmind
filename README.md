@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @beggarsmind<br>- 👀 Web Development<br>- 🌱 I’m currently learning the Problem<br>- 💞️ I’m looking to collaborate on github.<br>- 📫 How to reach me ranjithravi18110@gmail.com<br>- 😄 Pronouns: ... He/Him<br>- ⚡ Fun fact: ... " i am Strategist "
 
-https://visitcount.itsvg.in/api?id=beggarsmind&icon=1&color=1
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/beggars_mind) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjith-kumar807265) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/beggarsmind) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranjithravi18110@gmail.com) 
 
@@ -22,6 +22,7 @@ https://visitcount.itsvg.in/api?id=beggarsmind&icon=1&color=1
 ![](https://github-contributor-stats.vercel.app/api?username=beggarsmind&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=beggarsmind&icon=1&color=1)](https://visitcount.itsvg.in)
+![Visitor Count](https://img.shields.io/github/watchers/beggarsmind/beggarsmind?style=social)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
