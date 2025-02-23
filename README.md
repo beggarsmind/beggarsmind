@@ -23,6 +23,5 @@
 
 ---
 ![Visitor Count](https://img.shields.io/github/watchers/beggarsmind/beggarsmind?style=social)
-
-
+[![](https://visitcount.itsvg.in/api?id=beggarsmind&icon=1&color=1)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
