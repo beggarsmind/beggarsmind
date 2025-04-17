@@ -22,6 +22,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=beggarsmind&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
-![Visitor Count](https://img.shields.io/github/watchers/beggarsmind/beggarsmind?style=social)
-[![](https://visitcount.itsvg.in/api?id=beggarsmind&icon=1&color=1)](https://visitcount.itsvg.in)
+### 📊 GitHub Stats
+
+![GitHub Watchers](https://img.shields.io/github/watchers/beggarsmind/beggarsmind?style=social)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=beggarsmind&icon=1&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
